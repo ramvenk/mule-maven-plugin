@@ -24,7 +24,7 @@
 
     <properties>
         <licensePath>../LICENSE_HEADER.txt</licensePath>
-       <!-- <formatterConfigPath>../formatter.xml</formatterConfigPath> -->
+        <formatterConfigPath>../formatter.xml</formatterConfigPath>
 
         <coverageLineLimit>0.33</coverageLineLimit>
         <coverageBranchLimit>0.13</coverageBranchLimit>
